@@ -1,4 +1,6 @@
-## Olá, seja bem vindo a CaNeoN28
+## Olá, seja bem vindo a CaNeoN
+
+**Quem eu sou?: ** Atualmente um estudante de Análise e Desenvolvimento de Sistemas.
 
 <!--
 **CaNeoN28/CaNeoN28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
