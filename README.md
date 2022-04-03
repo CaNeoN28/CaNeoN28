@@ -1,6 +1,6 @@
 ## Olá, seja bem vindo a CaNeoN
 
-###**Quem eu sou?:** 
+**Quem eu sou?:** 
 
 Atualmente um estudante na área de Análise e Desenvolvimento de sistemas. Apaixonado por criar e disposto a aprender novas tecnologias para realizar minhas metas.
 
