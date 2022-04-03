@@ -12,6 +12,7 @@ Por enquanto eu não estou focando em nada específico, mas posso entrar de cabe
 Meus projetos mais recentes estão sendo baseados em React e Javascript para desenvolvimento web, mas possuo estudo em outras partes também, mesmo que sejam quase diminutas.
 
 Esse sou eu, Carlos Felipe Steinheuser, espero que tenha um bom dia!
+
 Passe também na minha conta secundária: https://github.com/NoCostToLove
 
 <!--
