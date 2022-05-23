@@ -18,7 +18,7 @@ Meus projetos mais recentes estão sendo baseados em React e Typescript para des
 
 <p align='center'>
 
-https://user-images.githubusercontent.com/59800265/169884156-7eb2d60d-2a81-40d8-9280-0bd530204745.mp4
+<video loop autostart src="https://user-images.githubusercontent.com/59800265/169884156-7eb2d60d-2a81-40d8-9280-0bd530204745.mp4"></video>
 
 </p>
 
