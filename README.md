@@ -16,7 +16,9 @@ Meus projetos mais recentes estão sendo baseados em React e Typescript para des
 
 ### <b>Typedex: Pokérus (WIP)</b>
 
-<img src="https://user-images.githubusercontent.com/59800265/169877738-c55ae307-bb12-44ba-9ae5-4813d1662939.mp4"> </img>
+<video> 
+  <source src="https://user-images.githubusercontent.com/59800265/169877738-c55ae307-bb12-44ba-9ae5-4813d1662939.mp4">
+</video>
 
 Pokédex feita com React e Typescript, pode ser encontrada <a href="https://github.com/CaNeoN28/typedex-pokerus">Aqui</a>
 
