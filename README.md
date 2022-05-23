@@ -9,11 +9,23 @@ Atualmente um estudante na área de Análise e Desenvolvimento de sistemas. Apai
 Por enquanto eu não estou focando em nada específico, mas posso entrar de cabeça em algo quando o assunto é aprender. Não tive oportunidade de entrar de vez na área, mas sempre que possível eu procuro aprender sobre alguma coisa nova, mesmo que seja incerta.
 
 **O que eu estou aprendendo?**
-Meus projetos mais recentes estão sendo baseados em React e Javascript para desenvolvimento web, mas possuo estudo em outras partes também, mesmo que sejam quase diminutas.
 
+Meus projetos mais recentes estão sendo baseados em React e Typescript para desenvolvimento web, mas possuo estudo em outras partes também, mesmo que sejam quase diminutas.
+
+## Meus principais projetos
+
+### <b>Typedex: Pokérus (WIP)</b>
+<video width='100%' autoplay loop src="preview/typedex.mp4"></video>
+
+Pokédex feita com React e Typescript, pode ser encontrada <a href="https://github.com/CaNeoN28/typedex-pokerus">Aqui</a>
+
+<br>
+
+<div>
 Esse sou eu, Carlos Felipe Steinheuser, espero que tenha um bom dia!
 
 Passe também na minha conta secundária: https://github.com/NoCostToLove
+</div>
 
 <!--
 **CaNeoN28/CaNeoN28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
